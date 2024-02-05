@@ -1,0 +1,15 @@
+.hd_safe {
+    background: url('chrome-extension://__MSG_@@extension_id__/resources/images/facingDownGreen.png');
+}
+
+.hd_unsafe {
+    background: url('chrome-extension://__MSG_@@extension_id__/resources/images/facingDownRed.png');
+}
+
+.hd_efficient {
+    background: url('chrome-extension://__MSG_@@extension_id__/resources/images/facingDownOrange.png');
+}
+
+.hd_dead {
+    background: url('chrome-extension://__MSG_@@extension_id__/resources/images/facingDownBlack.png');
+}
